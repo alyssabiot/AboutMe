@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ripley</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">"Hi, my name is Ripley. I am the cutest kitten ever !\n\nThings I love : \n- Sleeping\n- Eating\n- Biting my human\n\nThings I hate : \n- Waking up\n- Not catching the red dot\n- Being far from my human\n    "</string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+    <string name="done">Done</string>
+</resources>
